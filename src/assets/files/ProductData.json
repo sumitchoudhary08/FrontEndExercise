@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"productId": 1, "name": "Shoe", "price": 2000, "image": "https://n2.sdlcdn.com/imgs/f/k/y/Adidas-Style-Sneakers-White-Casual-SDL741263287-2-89ba1.jpg"},
+        {"productId": 2, "name": "Bag", "price": 1200, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEp5BD5CdwjFG6r_0CHecdKrdWeaCBnrl3KRnyhhiNTKOys9l0g"},
+        {"productId": 3, "name": "Watch", "price": 2400, "image": "https://images-na.ssl-images-amazon.com/images/I/71OJ%2BLU7oqL._UX679_.jpg"}
+    ]
+}
