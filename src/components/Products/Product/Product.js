@@ -3,8 +3,8 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
 import './Product.css';
 
 const product = (props) => {
+    //console.log(props);
  return (
-     
          <Card width='100%' className='zoom'>
             <CardImg src={props.image} alt={props.name} height='250'/>
             <CardBody className='cardBody'>
